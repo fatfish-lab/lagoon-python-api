@@ -72,7 +72,7 @@ class Item(Entity):
         :type       data:            dictionary
         :param      apply_template:  Do apply template ?
         :type       apply_template:  boolean, optional
-        :param      template_key:    The template key to apply. If no template key, `automatic context's template <https://docs.fatfish.app/#/userguide/items?id=templates>`_ will be used.
+        :param      template_key:    The template key to apply. If no template key, automatic context's template will be used.
         :type       template_key:    string, optional
         :param      path:            File path you want to upload on the appended item
         :type       path:            string, optional
