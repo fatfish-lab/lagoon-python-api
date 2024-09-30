@@ -3,9 +3,9 @@
 
 ![lagoon-python-api](https://github.com/fatfish-lab/lagoon-python-api/blob/main/docs/source/_static/logo.png?raw=true)
 
-> Lagoon python API is a tool that allows [Lagoon Studio](https://fatfi.sh/lagoon) users to interact with there data from directly from Python.
+> Lagoon python API is a tool that allows [Lagoon](https://fatfi.sh/lagoon) users to interact with there data from directly from Python.
 
-Lagoon Studio is developed by [Fatfish Lab](https://fatfi.sh)
+Lagoon is developed by [Fatfish Lab](https://fatfi.sh)
 
 ```python
 # -*- coding: utf-8 -*-
